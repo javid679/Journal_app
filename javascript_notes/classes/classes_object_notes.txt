@@ -1,0 +1,13 @@
+class ---> object
+
+
+Instance Properties: what they have
+        - name
+        - age
+        - height
+
+Instance Methods: what they do
+        - talk
+        - run
+        - jump
+        
